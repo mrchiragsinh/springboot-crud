@@ -1,0 +1,8 @@
+com\demo\Application.class
+com\demo\dao\RegDAO.class
+com\demo\model\RegVO.class
+com\demo\service\RegService.class
+com\demo\service\RegServiceImpl.class
+com\demo\HibernateConfiguration.class
+com\demo\controller\RegController.class
+com\demo\dao\RegDAOImp.class
